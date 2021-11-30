@@ -1,0 +1,11 @@
+asgiref==3.4.1
+databases==0.5.3
+dj-database-url==0.5.0
+Django==3.2.9
+greenlet==1.1.2
+gunicorn==20.1.0
+psycopg2-binary==2.9.2
+pytz==2021.3
+SQLAlchemy==1.4.27
+sqlparse==0.4.2
+whitenoise==5.3.0
